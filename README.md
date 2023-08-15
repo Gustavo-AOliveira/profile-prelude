@@ -8,7 +8,9 @@ Este projeto consiste em uma página de apresentação pessoal onde compartilho 
 
 ## Demonstração
 
-Insira uma captura de tela ou GIF animado que mostre a aparência da sua página.
+![Demonstração](https://github.com/Gustavo-AOliveira/profile-prelude/blob/main/demo.png?raw=true)
+
+
 
 ## Tecnologias Utilizadas
 
